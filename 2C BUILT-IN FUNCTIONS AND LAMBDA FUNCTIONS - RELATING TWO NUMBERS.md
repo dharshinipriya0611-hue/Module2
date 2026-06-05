@@ -24,16 +24,22 @@ To write a Python program to check the relation between two numbers — whether 
 ### PROGRAM
 
 ```
+multiply_by_45 = lambda z: z * 45
+result = multiply_by_45(int(input()))  
+print(result)  
 
 ```
 
 ### OUTPUT
+<img width="404" height="245" alt="image" src="https://github.com/user-attachments/assets/9af536ab-049c-4a56-ad02-7828a36805c6" />
+
 
 ```
 
 ```
 
 ### RESULT
+Thus the program is created and verified.
 
 ```
 
