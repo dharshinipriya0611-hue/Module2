@@ -1,5 +1,5 @@
 # Exp.No:2e  
-## SEB - COMPUTING POWER
+## SEB - Multiply the input
 
 ---
 
@@ -9,14 +9,14 @@ To write a Python program that accepts three integer inputs from the user, multi
 ---
 
 ### ALGORITHM
+~~~
 
 1.Start the program.
 2.Read three integer values a, b, and c from the user.
 3.Pass the values to the result(a, b, c) function.
 4.Inside the function, calculate the product using mul = a * b * c.
 5.Display the result (mul) and stop the program.
-
----
+~~~
 
 ### PROGRAM
 
